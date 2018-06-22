@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace example
+namespace Csharp_Basics
 {
     class Program
     {
@@ -88,6 +88,8 @@ namespace example
             }
 
             Console.WriteLine(greeting + " " + name);
+
+            Console.ReadKey();
         }
     }
 }
