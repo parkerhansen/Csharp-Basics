@@ -2,7 +2,7 @@
 
 namespace Csharp_Basics
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
         {
